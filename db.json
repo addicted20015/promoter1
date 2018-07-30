@@ -1,0 +1,36 @@
+{
+  "profile": {
+    "api_status": "SUCCESS",
+    "status_code": "200",
+    "key": "USER_PROFILE_SUCCESS",
+    "message": "Biker profile retreived succesfully.",
+    "data": {
+      "lastName": "rizwan",
+      "nationalCode": "string12123",
+      "permanentPostalCode": "560008",
+      "city": "tehran",
+      "photoUrl": null,
+      "currentAppVersion": 10013,
+      "loginType": "salePromoter ",
+      "userId": 263,
+      "email": "abc@gmail.com",
+      "firstName": "abdull",
+      "phoneNumber": "9889267914",
+      "status": "ACTIVE"
+    }
+  },
+  "bankDetails": {
+    "api_status": "SUCCESS",
+    "status_code": "200",
+    "key": "BANK_DETAIL",
+    "message": "user bank details retreived succesfully.",
+    "data": {
+      "ibanNumber": "1234",
+      "allias": "abcd",
+      "bankName": "HDFC",
+      "bankHolderName": "Abdul Rizwan",
+      "cardNumber": "234343432",
+      "id": 12
+    }
+  }
+}
